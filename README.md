@@ -6,7 +6,6 @@ A powerful Retrieval-Augmented Generation (RAG) system built with **LangGraph**,
 
 - **🔍 Intelligent Document Retrieval** - Processes and indexes documents from URLs for semantic search
 - **🤖 ReAct Agent Integration** - Uses reasoning and acting agents with tool access (retriever + Wikipedia)
-- **⚡ Real-time Streaming** - ChatGPT/Claude-like streaming responses with token-by-token generation
 - **🎯 Multi-source Knowledge** - Combines document corpus with Wikipedia for comprehensive answers
 - **📊 Interactive UI** - Clean Streamlit interface with search history and source document display
 - **🔧 Modular Architecture** - Well-structured codebase with separate components for easy customization
@@ -16,7 +15,7 @@ A powerful Retrieval-Augmented Generation (RAG) system built with **LangGraph**,
 - **LangGraph** - Workflow orchestration and agent management
 - **LangChain** - Document processing and LLM integration
 - **Streamlit** - Interactive web interface
-- **Vector Store** - Semantic document search
+- **Vector Store** - FAISS (Semantic document search)
 - **Groq API** - Fast LLM inference (configurable)
 
 ## 🚀 Quick Start
