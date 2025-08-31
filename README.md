@@ -22,7 +22,7 @@ A powerful Retrieval-Augmented Generation (RAG) system built with **LangGraph**,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/agentic-rag-system.git
+   git clone https://github.com/Saon0714/RAG_Document_Search.git
    cd agentic-rag-system
    ```
 
